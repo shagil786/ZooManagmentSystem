@@ -1,0 +1,19 @@
+.zoo-ticket-management-container {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.issued-tickets-container {
+    flex: 1;
+    padding: 20px;
+}
+
+.ticket-details-container {
+    flex: 1;
+    padding: 20px;
+}
+
+.clear-both {
+    clear: both;
+}
